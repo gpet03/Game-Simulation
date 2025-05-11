@@ -1,5 +1,5 @@
 # Game-Simulation
-A game simulation script I wrote to best a the game defined in the read me. The simulation accurately predicted the winning number
+A game simulation script I wrote to best the game below. The simulation accurately predicted the winning number
 
 You must select a number between 0 - 100 amongst 8 opponents. One player is not interested in winning and will submit a chaotic choice
 
