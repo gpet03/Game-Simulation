@@ -1,7 +1,7 @@
 # Game-Simulation
-A game simulation script I wrote to best the game below. The simulation accurately predicted the winning number
+A game simulation script I wrote to best the game rules below for an interview competition. The simulation accurately suggested the winning number.
 
-You must select a number between 0 - 100 amongst 8 opponents. One player is not interested in winning and will submit a chaotic choice
+You must select a number between 0 - 100 amongst 8 opponents. One player is not interested in winning and will submit a chaotic choice.
 
 The winning conditions are as follows in order of Priority:
 1. The entry that is the lowest number higher than the average of all received numbers will win.
